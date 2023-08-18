@@ -1,0 +1,4 @@
+from .post import GET_POSTS_LIST
+
+
+POST_ENDPOINT_LISTS = [GET_POSTS_LIST]
